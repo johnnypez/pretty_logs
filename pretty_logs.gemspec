@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = PrettyLogs::VERSION
   spec.authors       = ["John Butler"]
   spec.email         = ["johnnypez@gmail.com"]
-  spec.description   = %q{TODO: Formats rails logs with severity and color}
-  spec.summary       = %q{TODO: Formats rails logs with severity and color}
+  spec.description   = %q{Formats Rails logs with severity and color}
+  spec.summary       = %q{Formats Rails logs with severity and color}
   spec.homepage      = ""
   spec.license       = "MIT"
 
